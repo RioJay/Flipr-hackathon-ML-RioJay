@@ -3,3 +3,4 @@ This repository is created for maintaining the code for a hackathon conducted by
 
 - name: JAYANTH
 - email: jayanth.cs19@bitsathy.ac.in
+- Bannari Amman Institute of Technology, II year
